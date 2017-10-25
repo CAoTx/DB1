@@ -4,8 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{3565ADC2-A76C-4997-AFB3-723D39B03878}" Name="Conceptual Flight" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Conceptual Flight.cdm"/>
-		<Model Expanded="Yes" ID="{B9A46D65-07FB-40C5-BE5D-31D7E110E31C}" Name="Conceptual Flight" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Conceptual Flight.pdm"/>
+		<Model Expanded="Yes" ID="{3565ADC2-A76C-4997-AFB3-723D39B03878}" Name="Conceptual Flight" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="/dokumente/db1/conceptual flight.cdm"/>
+		<Model Expanded="Yes" ID="{B9A46D65-07FB-40C5-BE5D-31D7E110E31C}" Name="Physical Flight" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Conceptual Flight.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
